@@ -1,0 +1,13 @@
+Primero activamos el venv en nuestro proyecto
+Luego accedemos mediante el cd mysite a nuestra carpeta
+
+agregamos python manage.py migrate
+
+continuamos con python manage.py createsuperuser
+
+user: admin
+email: admin@email.com
+password: admin
+
+ejecutamos el servidor de django y usando /admin podremos acceder
+
