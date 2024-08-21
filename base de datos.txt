@@ -9,5 +9,11 @@ user: admin
 email: admin@email.com
 password: admin
 
+colocan 
+Y
+
+despues añadir el comando 
+python manage.py makemigrations
+
 ejecutamos el servidor de django y usando /admin podremos acceder
 
